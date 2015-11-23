@@ -20,7 +20,7 @@ Install
 
 For Debian 7 and Ubuntu 12+, add the following line to `/etc/apt/sources.list`
 
-    deb http://shadowvpn.org/debian wheezy main
+    deb http://shadowvpn.org/debian/ wheezy main
 
 Then
 
@@ -143,7 +143,7 @@ Bugs and Issues
 [Chinese Readme]:       https://github.com/clowwindy/ShadowVPN/wiki/ShadowVPN-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E
 [download ShadowVPN]:   https://github.com/clowwindy/ShadowVPN/releases
 [FAQ]:                  https://github.com/clowwindy/ShadowVPN/wiki/FAQ
-[iOS]:                  https://github.com/clowwindy/ShadowVPNiOS
+[iOS]:                  https://github.com/clowwindy/ShadowVPN-iOS
 [Issue Tracker]:        https://github.com/clowwindy/ShadowVPN/issues?state=open
 [LuCI Configuration]:   https://github.com/clowwindy/ShadowVPN/wiki/Configure-Via-LuCI-on-OpenWRT
 [Mailing list]:         http://groups.google.com/group/shadowsocks
